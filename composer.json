@@ -3,7 +3,8 @@
     "description": "Local adapter for Gaufrette",
     "type": "metapackage",
     "require": {
-        "knplabs/gaufrette": "^0.3"
+        "knplabs/gaufrette": "^0.3",
+        "ext-fileinfo": "*"
     },
     "authors": [
         {
